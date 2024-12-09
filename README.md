@@ -1,2 +1,2 @@
 # mern
- Welcome to the student-mentor scheduling app.
+ Welcome to MeetAMentor, where students can find and meet with industry professionals.
